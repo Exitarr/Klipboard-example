@@ -1,0 +1,233 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@400;700&family=Merriweather:wght@400;700&display=swap');
+
+
+* {
+  box-sizing: border-box;
+}
+html{
+  height: 100%;
+}
+body {
+  margin: 0;
+  height: 100%;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: radial-gradient(#186a5e, #053339);
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+  color: #e1eeeb;
+}
+
+#header {
+  text-align: center;
+  margin: 3rem auto;
+}
+
+
+#header img {
+  width: 5rem;
+  height: 5rem;
+  object-fit: contain;
+  background-color: transparent;
+}
+
+#header h1 {
+  font-size: 2rem;
+}
+
+#box{
+  margin: 0 2rem 0 0;
+  flex-grow: 1;
+}
+
+#content {
+  max-width: 60rem;
+  margin: 2rem auto;
+  padding: 1rem 2rem;
+  background: radial-gradient(#0b201d, #021619);
+  border-radius: 16px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.8);
+}
+
+
+ul {
+  list-style-type: none;
+}
+
+.add-item-button {
+  padding: 0.5rem 1rem;
+  margin: 1rem 0;
+  border-radius: 4px;
+  background-color: #021619;
+  color: white;
+  cursor: pointer;
+  font-size: 1.2rem;
+}
+
+#Input-Form{
+  max-width: 90%;
+  margin: 2rem auto;
+  padding: 2rem;
+  background: radial-gradient(#0b201d, #021619);
+  border-radius: 16px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.8);
+}
+
+#Input-Form input[type="text"] {
+  width: 100%;
+  padding: 0.5rem;
+  margin: 0.5rem 0;
+  border: 1px solid black;
+  border-radius: 4px;
+  background-color: gray;
+  color: black;
+}
+
+#Input-Form textarea {
+  height: 15rem;
+  margin: 5rem;
+  width: 100%;
+  padding: 0.5rem;
+  margin: 0.5rem 0;
+  border: 1px solid black;
+  border-radius: 4px;
+  background-color: gray;
+  color: black;
+}
+
+#Input-Form .button-text {
+  background: transparent;
+  border: none;
+  padding: 0;
+  margin: 1rem;
+  font-family: 'Raleway', sans-serif;
+  font-size: 1rem;
+  color: white;
+}
+
+
+.modal::backdrop {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 1;
+  width: 100%;
+  height: 100vh;
+  background: rgba(0, 0, 0, 0.6);
+}
+
+.modal {
+  min-width: 30rem;;
+  padding: 0;
+  z-index: 2;
+  background: #d5c7bc;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+  animation: slide-down-fade-in 0.3s ease-out forwards;
+}
+
+#Card-Header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem;
+  border-radius: 4px 4px 0 0;
+}
+
+.note{
+  max-height: 0px;
+  overflow: hidden;
+  transition: all 0.5s cubic-bezier(0,1,0,1);
+}
+
+.show{
+  max-height: 10000px;
+  transition: all 0.5s cubic-bezier(1,0,1,0);
+}
+
+#Card-buttons button{
+    padding: 0.5rem 0.5rem;
+    border: none;
+    border-radius: 4px;
+    background-color: transparent;
+    color: white;
+    cursor: pointer;
+    font-size: 1.5rem;
+}
+
+footer {
+  background-color: #021619;
+  color: #ffffff;
+  margin-top: auto;
+  padding: 1rem;
+  text-align: center;
+}
+
+#delete-confirmation {
+  padding: 1rem;
+}
+
+#delete-confirmation h2 {
+  font-family: 'Raleway', sans-serif;
+  font-size: 1.5rem;
+  margin: 0;
+  padding: 0;
+  color:#5d0909;
+}
+
+
+#confirmation-actions {
+  margin-top: 1rem;
+  display: flex;
+  justify-content: flex-end;
+  gap: 1rem;
+}
+
+
+.button {
+  cursor: pointer;
+  font-family: 'Raleway', sans-serif;
+  font-size: 1rem;
+  padding: 0.5rem 1.5rem;
+  border: none;
+  border-radius: 4px;
+  background-color: #5d0909;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.4);
+  color: #fff;
+}
+
+.button:hover,
+.button:focus {
+  background-color: #3e0505;
+}
+
+.button-text {
+  background: transparent;
+  border: none;
+  padding: 0;
+  font-family: 'Raleway', sans-serif;
+  font-size: 1rem;
+  color: #5d0909;
+}
+
+.no-item {
+  text-align: center;
+  margin: 3rem auto;
+}
+@media (max-width: 750px), (max-height: 1000px) {
+  body {
+      width: 100%;
+      height: 100%;
+  }
+}
+
+.github-button {
+  background: transparent;
+  border: none;
+  padding: 0;
+  margin: 1rem;
+  font-family: 'Raleway', sans-serif;
+  font-size: 1rem;
+  color: white;
+}

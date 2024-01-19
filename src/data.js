@@ -1,0 +1,62 @@
+export  const items = [
+    {
+        "id": 1,
+        "title": "Estradiol",
+        "content": "Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.\n\nFusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.\n\nSed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.",
+        "website": "https://arizona.edu/convallis/nunc.png?nunc=vitae&commodo=quam&placerat=suspendisse&praesent=potenti&blandit=nullam&nam=porttitor&nulla=lacus&integer=at&pede=turpis&justo=donec&lacinia=posuere&eget=metus&tincidunt=vitae&eget=ipsum&tempus=aliquam&vel=non&pede=mauris&morbi=morbi&porttitor=non&lorem=lectus&id=aliquam&ligula=sit"
+    },
+    {
+        "id": 2,
+        "title": "BETHANECHOL CHLORIDE",
+        "content": "Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.\n\nNullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.\n\nMorbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",
+        "website": "http://biglobe.ne.jp/aenean/sit/amet/justo.json?justo=mauris&sit=laoreet&amet=ut&sapien=rhoncus&dignissim=aliquet&vestibulum=pulvinar&vestibulum=sed&ante=nisl&ipsum=nunc&primis=rhoncus&in=dui&faucibus=vel&orci=sem&luctus=sed&et=sagittis&ultrices=nam&posuere=congue&cubilia=risus&curae=semper&nulla=porta&dapibus=volutpat&dolor=quam&vel=pede&est=lobortis&donec=ligula&odio=sit&justo=amet&sollicitudin=eleifend&ut=pede&suscipit=libero&a=quis&feugiat=orci&et=nullam&eros=molestie&vestibulum=nibh&ac=in&est=lectus&lacinia=pellentesque&nisi=at&venenatis=nulla&tristique=suspendisse&fusce=potenti&congue=cras&diam=in&id=purus&ornare=eu&imperdiet=magna&sapien=vulputate&urna=luctus&pretium=cum&nisl=sociis&ut=natoque&volutpat=penatibus&sapien=et&arcu=magnis&sed=dis&augue=parturient&aliquam=montes&erat=nascetur&volutpat=ridiculus&in=mus&congue=vivamus&etiam=vestibulum&justo=sagittis&etiam=sapien&pretium=cum&iaculis=sociis&justo=natoque&in=penatibus&hac=et&habitasse=magnis&platea=dis&dictumst=parturient&etiam=montes&faucibus=nascetur&cursus=ridiculus&urna=mus&ut=etiam"
+    },
+    {
+        "id": 3,
+        "title": "ZINC ACETATE ANHYDROUS and ZINC GLUCONATE",
+        "content": "Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.\n\nDuis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.\n\nDonec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.",
+        "website": "https://tinypic.com/velit/vivamus/vel/nulla/eget/eros/elementum.json?morbi=in&quis=hac&tortor=habitasse&id=platea&nulla=dictumst&ultrices=etiam&aliquet=faucibus&maecenas=cursus&leo=urna&odio=ut"
+    },
+    {
+        "id": 4,
+        "title": "fentanyl citrate",
+        "content": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus.\n\nVestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis.\n\nDuis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.",
+        "website": "http://prlog.org/nec.json?tellus=nibh&in=quisque&sagittis=id&dui=justo&vel=sit&nisl=amet&duis=sapien&ac=dignissim&nibh=vestibulum&fusce=vestibulum&lacus=ante&purus=ipsum&aliquet=primis&at=in&feugiat=faucibus&non=orci&pretium=luctus&quis=et&lectus=ultrices&suspendisse=posuere&potenti=cubilia&in=curae&eleifend=nulla&quam=dapibus&a=dolor&odio=vel&in=est&hac=donec&habitasse=odio&platea=justo&dictumst=sollicitudin&maecenas=ut&ut=suscipit&massa=a&quis=feugiat&augue=et&luctus=eros&tincidunt=vestibulum&nulla=ac&mollis=est&molestie=lacinia&lorem=nisi&quisque=venenatis&ut=tristique&erat=fusce&curabitur=congue&gravida=diam&nisi=id&at=ornare&nibh=imperdiet&in=sapien&hac=urna&habitasse=pretium&platea=nisl&dictumst=ut&aliquam=volutpat&augue=sapien&quam=arcu&sollicitudin=sed&vitae=augue&consectetuer=aliquam&eget=erat&rutrum=volutpat&at=in&lorem=congue&integer=etiam"
+    },
+    {
+        "id": 5,
+        "title": "Diltiazem Hydrochloride",
+        "content": "Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.\n\nInteger ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi.\n\nNam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.",
+        "website": "https://theatlantic.com/ut.js?felis=nunc&donec=rhoncus&semper=dui&sapien=vel&a=sem&libero=sed&nam=sagittis&dui=nam&proin=congue&leo=risus&odio=semper&porttitor=porta&id=volutpat&consequat=quam&in=pede&consequat=lobortis&ut=ligula&nulla=sit&sed=amet&accumsan=eleifend&felis=pede&ut=libero&at=quis&dolor=orci&quis=nullam&odio=molestie&consequat=nibh&varius=in&integer=lectus&ac=pellentesque&leo=at&pellentesque=nulla&ultrices=suspendisse&mattis=potenti&odio=cras&donec=in&vitae=purus&nisi=eu&nam=magna&ultrices=vulputate&libero=luctus&non=cum&mattis=sociis&pulvinar=natoque&nulla=penatibus&pede=et&ullamcorper=magnis&augue=dis&a=parturient&suscipit=montes&nulla=nascetur&elit=ridiculus&ac=mus&nulla=vivamus&sed=vestibulum&vel=sagittis&enim=sapien&sit=cum&amet=sociis&nunc=natoque&viverra=penatibus&dapibus=et&nulla=magnis&suscipit=dis&ligula=parturient&in=montes&lacus=nascetur&curabitur=ridiculus&at=mus&ipsum=etiam&ac=vel&tellus=augue&semper=vestibulum&interdum=rutrum&mauris=rutrum&ullamcorper=neque&purus=aenean&sit=auctor&amet=gravida&nulla=sem&quisque=praesent&arcu=id&libero=massa"
+    },
+    {
+        "id": 6,
+        "title": "conjugated estrogens",
+        "content": "Sed ante. Vivamus tortor. Duis mattis egestas metus.\n\nAenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.\n\nQuisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.",
+        "website": "http://google.it/donec/vitae/nisi/nam.jsp?posuere=consequat&metus=nulla&vitae=nisl&ipsum=nunc&aliquam=nisl&non=duis&mauris=bibendum&morbi=felis&non=sed&lectus=interdum&aliquam=venenatis&sit=turpis&amet=enim&diam=blandit&in=mi&magna=in&bibendum=porttitor&imperdiet=pede&nullam=justo&orci=eu&pede=massa&venenatis=donec&non=dapibus&sodales=duis&sed=at&tincidunt=velit&eu=eu&felis=est&fusce=congue&posuere=elementum&felis=in&sed=hac&lacus=habitasse&morbi=platea&sem=dictumst&mauris=morbi&laoreet=vestibulum&ut=velit&rhoncus=id&aliquet=pretium&pulvinar=iaculis&sed=diam"
+    },
+    {
+        "id": 7,
+        "title": "Lenalidomide",
+        "content": "Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.\n\nProin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.\n\nDuis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.",
+        "website": "http://sun.com/vulputate/luctus/cum/sociis/natoque/penatibus.png?ac=nonummy&est=maecenas&lacinia=tincidunt&nisi=lacus&venenatis=at&tristique=velit&fusce=vivamus&congue=vel&diam=nulla&id=eget&ornare=eros&imperdiet=elementum&sapien=pellentesque&urna=quisque&pretium=porta&nisl=volutpat&ut=erat&volutpat=quisque&sapien=erat&arcu=eros&sed=viverra&augue=eget&aliquam=congue&erat=eget&volutpat=semper&in=rutrum&congue=nulla&etiam=nunc&justo=purus&etiam=phasellus&pretium=in&iaculis=felis&justo=donec&in=semper&hac=sapien&habitasse=a&platea=libero&dictumst=nam&etiam=dui&faucibus=proin&cursus=leo&urna=odio&ut=porttitor&tellus=id&nulla=consequat&ut=in&erat=consequat&id=ut&mauris=nulla&vulputate=sed&elementum=accumsan&nullam=felis&varius=ut&nulla=at&facilisi=dolor&cras=quis&non=odio&velit=consequat&nec=varius&nisi=integer&vulputate=ac&nonummy=leo&maecenas=pellentesque&tincidunt=ultrices&lacus=mattis&at=odio&velit=donec&vivamus=vitae&vel=nisi&nulla=nam"
+    },
+    {
+        "id": 8,
+        "title": "Loratadine",
+        "content": "Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.\n\nProin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.\n\nAenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.",
+        "website": "https://sciencedaily.com/erat/tortor/sollicitudin/mi/sit/amet.jpg?ut=posuere&rhoncus=cubilia&aliquet=curae&pulvinar=mauris&sed=viverra&nisl=diam&nunc=vitae&rhoncus=quam&dui=suspendisse&vel=potenti&sem=nullam&sed=porttitor&sagittis=lacus&nam=at&congue=turpis&risus=donec&semper=posuere&porta=metus&volutpat=vitae&quam=ipsum&pede=aliquam&lobortis=non&ligula=mauris&sit=morbi&amet=non&eleifend=lectus&pede=aliquam&libero=sit&quis=amet&orci=diam&nullam=in&molestie=magna&nibh=bibendum&in=imperdiet&lectus=nullam&pellentesque=orci&at=pede&nulla=venenatis&suspendisse=non&potenti=sodales&cras=sed&in=tincidunt&purus=eu&eu=felis&magna=fusce&vulputate=posuere&luctus=felis&cum=sed&sociis=lacus&natoque=morbi&penatibus=sem&et=mauris&magnis=laoreet&dis=ut&parturient=rhoncus&montes=aliquet&nascetur=pulvinar&ridiculus=sed&mus=nisl&vivamus=nunc&vestibulum=rhoncus&sagittis=dui&sapien=vel&cum=sem&sociis=sed&natoque=sagittis&penatibus=nam&et=congue&magnis=risus&dis=semper&parturient=porta&montes=volutpat&nascetur=quam&ridiculus=pede&mus=lobortis&etiam=ligula&vel=sit&augue=amet&vestibulum=eleifend&rutrum=pede&rutrum=libero&neque=quis&aenean=orci"
+    },
+    {
+        "id": 9,
+        "title": "Camphor Menthol Methyl Salicylate",
+        "content": "Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.",
+        "website": "http://desdev.cn/eget.json?faucibus=nibh&orci=in&luctus=lectus&et=pellentesque&ultrices=at&posuere=nulla&cubilia=suspendisse&curae=potenti&mauris=cras&viverra=in&diam=purus&vitae=eu&quam=magna&suspendisse=vulputate&potenti=luctus&nullam=cum&porttitor=sociis&lacus=natoque&at=penatibus&turpis=et&donec=magnis&posuere=dis&metus=parturient&vitae=montes&ipsum=nascetur&aliquam=ridiculus&non=mus&mauris=vivamus&morbi=vestibulum&non=sagittis&lectus=sapien&aliquam=cum&sit=sociis&amet=natoque&diam=penatibus&in=et&magna=magnis&bibendum=dis&imperdiet=parturient&nullam=montes&orci=nascetur&pede=ridiculus&venenatis=mus&non=etiam&sodales=vel&sed=augue&tincidunt=vestibulum&eu=rutrum&felis=rutrum&fusce=neque&posuere=aenean&felis=auctor&sed=gravida&lacus=sem&morbi=praesent&sem=id&mauris=massa&laoreet=id&ut=nisl&rhoncus=venenatis&aliquet=lacinia&pulvinar=aenean&sed=sit&nisl=amet&nunc=justo&rhoncus=morbi&dui=ut&vel=odio&sem=cras&sed=mi&sagittis=pede&nam=malesuada&congue=in&risus=imperdiet&semper=et&porta=commodo&volutpat=vulputate&quam=justo&pede=in&lobortis=blandit&ligula=ultrices"
+    },
+    {
+        "id": 10,
+        "title": "Bisacodyl",
+        "content": "Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.\n\nSed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.\n\nPellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.",
+        "website": "http://npr.org/erat/id.jpg?in=integer&tempus=ac&sit=leo&amet=pellentesque&sem=ultrices"
+    }
+]
